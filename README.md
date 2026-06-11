@@ -1,6 +1,12 @@
 
-### Purpose 
-Detached repository for Harvard study materials (Harvard CS50)
+### Description 
+Detached repository for [Harvard study materials](https://www.edx.org/cs50)
 
-### Associations
-More information, study path, summary in [detached Notion Page](https://www.notion.so/kuzminklk/Harvard-CS50-31154d4de035809d8c66ed7f2805078b?source=copy_link) (Harvard CS50)
+### Purpose
+Part of computer-science study curriculum availabe in [Notion](https://app.notion.com/p/kuzminklk/31154d4de03580d7b5ceca5b187846be) (private for now)
+
+### Sections
+1. C
+2. Python
+3. SQL
+4. Web
