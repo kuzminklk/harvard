@@ -1,6 +1,8 @@
 """
-From the lecture.
-Example of basics: functions, variables, program flow, concatenations, formated strings, detached main function convention…
+——— Source ———
+From the lecture
+——— Purpose ———
+Example of: functions, variables, program flow, concatenations, formatted strings, detached main function convention
 """
 
 

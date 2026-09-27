@@ -1,7 +1,8 @@
 """
-From the shorts.
-Example of side effects of function running.
-Like changing state or printing a message…
+——— Source ———
+From the shorts
+——— Purpose ———
+Example of side effects of function running like changing state or printing a message
 """
 
 # Global variable

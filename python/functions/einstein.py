@@ -1,5 +1,7 @@
 """
-From the problem set.
+——— Source ———
+From the problem set
+——— Behavior ———
 Turn mass to energy by (E=mc^2) formula. Takes user input as mass (in kilograms) and print the energy (in Joules)
 """
 

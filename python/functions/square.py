@@ -1,6 +1,8 @@
 """
-From the lecture.
-Example of returning a value…
+——— Source ———
+From the lecture
+——— Purpose ———
+Example of returning a value
 """
 
 

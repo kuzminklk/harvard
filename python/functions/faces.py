@@ -1,6 +1,8 @@
 """
-From the problem set.
-Take user input and change emojicons like “(:” to appropriate emoji (🙂), then print the result.
+——— Source ———
+From the problem set
+——— Behavior ———
+Take user input and change emojicons like “(:” to appropriate emoji (🙂), then print the result
 """
 
 

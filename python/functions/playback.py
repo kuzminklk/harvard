@@ -1,6 +1,8 @@
 """
-From the problem set.
-Take user input and change all spaces to “…”, then print the message.
+——— Source ———
+From the problem set
+——— Behavior ———
+Takes user input and changes all spaces to “…”, then prints the message
 """
 
 

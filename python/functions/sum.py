@@ -1,6 +1,8 @@
 """
-From the lecture.
-Example of basic mathematical operations…
+——— Source ———
+From the lecture
+——— Purpose ———
+Example of basic mathematical operations
 """
 
 # Get digits

@@ -1,6 +1,8 @@
 """
-From the problem set.
-Make user input lowercase and print it.
+——— Source ———
+From the problem set
+——— Behavior ———
+Makes user input lowercase and prints it
 """
 
 

@@ -1,6 +1,8 @@
 """
-From the problem set.
-Turn mass to energy by (E=mc^2) formula. Takes user input as mass (in kilograms) and print the energy (in Joules)
+——— Source ———
+From the problem set
+——— Behavior ———
+Takes user input, calculates the tip, prints appropriate message
 """
 
 
@@ -11,12 +13,14 @@ def main():
 	print(f"Leave ${tip:.2f}")
 
 
-def dollars_to_float(d):
-	x = 2
+def dollars_to_float(dollars):
+	dollars = dollars.removeprefix("$")
+	return float(dollars)
 
 
-def percent_to_float(p):
-	x = 2
+def percent_to_float(percent):
+	percent = percent.removesuffix("%")
+	return float(percent) / 100
 
 
 main()
