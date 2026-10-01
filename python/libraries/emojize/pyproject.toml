@@ -1,14 +1,14 @@
 [project]
-name = "itunes"
+name = "emojize"
 version = "0.1.0"
-description = "Grab songs from iTunes for the artist and prints"
+description = "Turn emoji codes (like “:thumbs_up:”) to emoji"
 readme = "README.md"
 authors = [{ name = "kuzminkdk", email = "kuzminkdk@gmail.com" }]
 requires-python = ">=3.11"
-dependencies = ["requests>=2.34.2"]
+dependencies = ["emoji>=2.16.0"]
 
 [project.scripts]
-itunes = "itunes:main"
+emojize = "emojize:main"
 
 [build-system]
 requires = ["uv_build>=0.12.17,<0.13.0"]

@@ -1,14 +1,17 @@
 [project]
-name = "itunes"
+name = "bitcoin"
 version = "0.1.0"
-description = "Grab songs from iTunes for the artist and prints"
+description = "Print a price of Bitcoin"
 readme = "README.md"
 authors = [{ name = "kuzminkdk", email = "kuzminkdk@gmail.com" }]
 requires-python = ">=3.11"
-dependencies = ["requests>=2.34.2"]
+dependencies = [
+    "dotenv>=0.9.9",
+    "requests>=2.34.2",
+]
 
 [project.scripts]
-itunes = "itunes:main"
+bitcoin = "bitcoin:main"
 
 [build-system]
 requires = ["uv_build>=0.12.17,<0.13.0"]

@@ -1,0 +1,7 @@
+# Environment
+/.venv/
+.env*
+!.env.example
+
+# Build
+/dist/
