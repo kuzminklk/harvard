@@ -1,14 +1,14 @@
 [project]
-name = "bitcoin"
+name = "pizza"
 version = "0.1.0"
-description = "Print a price of Bitcoin"
+description = "Print a table in ASCII-art from .csv file"
 readme = "README.md"
 authors = [{ name = "kuzminkdk", email = "kuzminkdk@gmail.com" }]
 requires-python = ">=3.11"
-dependencies = ["dotenv>=0.9.9", "requests>=2.34.2"]
+dependencies = ["tabulate>=0.10.0"]
 
 [project.scripts]
-bitcoin = "bitcoin:main"
+pizza = "pizza:main"
 
 [build-system]
 requires = ["uv_build>=0.12.17,<0.13.0"]

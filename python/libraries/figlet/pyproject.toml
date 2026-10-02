@@ -5,9 +5,7 @@ description = "Turn text into ASCII-art"
 readme = "README.md"
 authors = [{ name = "kuzminkdk", email = "kuzminkdk@gmail.com" }]
 requires-python = ">=3.11"
-dependencies = [
-    "pyfiglet>=1.0.4",
-]
+dependencies = ["pyfiglet>=1.0.4"]
 
 [project.scripts]
 figlet = "figlet:main"

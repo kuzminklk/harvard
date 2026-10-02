@@ -1,14 +1,14 @@
 [project]
-name = "bitcoin"
+name = "costumes"
 version = "0.1.0"
-description = "Print a price of Bitcoin"
+description = "Turn two images into animated one"
 readme = "README.md"
 authors = [{ name = "kuzminkdk", email = "kuzminkdk@gmail.com" }]
 requires-python = ">=3.11"
-dependencies = ["dotenv>=0.9.9", "requests>=2.34.2"]
+dependencies = ["pillow>=12.3.0"]
 
 [project.scripts]
-bitcoin = "bitcoin:main"
+costumes = "costumes:main"
 
 [build-system]
 requires = ["uv_build>=0.12.17,<0.13.0"]
