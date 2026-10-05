@@ -6,13 +6,13 @@ From the problem set
 
 ### Description
 
-Checks plates for validity
+Validate IPv4 address
 
 ## Usage
 
 ### Run
 
-`uv sync` → `uv run plates`
+`uv sync` → `uv run ip`
 
 ### Test
 

@@ -18,7 +18,7 @@ Particularly reimplement program in unnecessary way to complete the task
 
 ### Run
 
-`uv sync` → `uv run vowels`
+`uv sync` → `uv run fuel`
 
 ### Test
 

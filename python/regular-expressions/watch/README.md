@@ -6,13 +6,13 @@ From the problem set
 
 ### Description
 
-Checks plates for validity
+Parse YouTube link from embed HTML and transform
 
 ## Usage
 
 ### Run
 
-`uv sync` → `uv run plates`
+`uv sync` → `uv run watch`
 
 ### Test
 

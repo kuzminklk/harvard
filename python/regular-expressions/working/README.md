@@ -6,13 +6,13 @@ From the problem set
 
 ### Description
 
-Checks plates for validity
+Parse 12-hour clock time to 24-hour clock
 
 ## Usage
 
 ### Run
 
-`uv sync` → `uv run plates`
+`uv sync` → `uv run working`
 
 ### Test
 

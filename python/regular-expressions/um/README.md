@@ -6,13 +6,13 @@ From the problem set
 
 ### Description
 
-Checks plates for validity
+Counts “um” in the text
 
 ## Usage
 
 ### Run
 
-`uv sync` → `uv run plates`
+`uv sync` → `uv run um`
 
 ### Test
 

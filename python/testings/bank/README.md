@@ -16,7 +16,7 @@ Counts a reward depends on greeting
 
 ### Run
 
-`uv sync` → `uv run vowels`
+`uv sync` → `uv run bank`
 
 ### Test
 

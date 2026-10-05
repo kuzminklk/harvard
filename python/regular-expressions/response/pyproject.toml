@@ -1,0 +1,18 @@
+[project]
+name = "response"
+version = "0.1.0"
+description = "Validate email address using appropriate libraries"
+readme = "README.md"
+authors = [{ name = "kuzminkdk", email = "kuzminkdk@gmail.com" }]
+requires-python = ">=3.11"
+dependencies = ["validators>=0.35.0"]
+
+[project.scripts]
+response = "response:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = []
