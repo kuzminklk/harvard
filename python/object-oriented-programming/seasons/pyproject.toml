@@ -1,0 +1,11 @@
+[project]
+name = "seasons"
+version = "0.1.0"
+description = "Caculates how old you are in minutes"
+readme = "README.md"
+authors = [{ name = "kuzminklk", email = "kuzminkdk@gmail.com" }]
+requires-python = ">=3.11"
+dependencies = ["inflect>=7.5.0"]
+
+[dependency-groups]
+dev = ["pytest>=9.1.1"]

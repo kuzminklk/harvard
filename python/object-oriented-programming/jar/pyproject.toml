@@ -1,0 +1,11 @@
+[project]
+name = "jar"
+version = "0.1.0"
+description = "Cookie jar"
+readme = "README.md"
+authors = [{ name = "kuzminklk", email = "kuzminkdk@gmail.com" }]
+requires-python = ">=3.11"
+dependencies = []
+
+[dependency-groups]
+dev = ["pytest>=9.1.1"]

@@ -1,0 +1,11 @@
+# Environment
+/.venv/
+
+# Build
+/dist/
+
+# Cache
+__pycache__/
+
+# Test
+/.pytest_cache/

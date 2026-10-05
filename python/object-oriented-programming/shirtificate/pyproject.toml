@@ -1,0 +1,11 @@
+[project]
+name = "shirtificate"
+version = "0.1.0"
+description = "Creates CS50 shirt with name in “.pdf” format"
+readme = "README.md"
+authors = [{ name = "kuzminklk", email = "kuzminkdk@gmail.com" }]
+requires-python = ">=3.11"
+dependencies = ["fpdf2>=2.8.9"]
+
+[dependency-groups]
+dev = ["pytest>=9.1.1"]
