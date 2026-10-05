@@ -2,7 +2,7 @@
 ——— Source ———
 From the problem set
 ——— Description ———
-Turn one date format into another
+Turns one date format into another
 """
 
 MOUNTHS = [

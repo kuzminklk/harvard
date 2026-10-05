@@ -1,6 +1,6 @@
 import pytest
 
-from .vowels import omit_vowels
+from vowels import omit_vowels
 
 
 def test_omiting():

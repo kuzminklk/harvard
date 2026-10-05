@@ -12,7 +12,7 @@ Counts “um” in the text
 
 ### Run
 
-`uv sync` → `uv run um`
+`uv sync` → `uv run um.py`
 
 ### Test
 

@@ -12,7 +12,7 @@ Example of unit tests
 
 ### Run
 
-`uv sync` → `uv run calculator`
+`uv sync` → `uv run calculator.py`
 
 ### Test
 

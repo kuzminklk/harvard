@@ -1,6 +1,6 @@
 """
 ——— Source ———
-From the lecure
+From the lecture
 ——— Description ———
 Validates email
 """

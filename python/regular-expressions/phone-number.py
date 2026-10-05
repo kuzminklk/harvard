@@ -2,7 +2,7 @@
 ——— Source ———
 From the shorts
 ——— Description ———
-Validate phone number and grab country code
+Validates phone number and grab country code
 """
 
 import re

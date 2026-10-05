@@ -1,6 +1,6 @@
 import pytest
 
-from .ip import validate
+from ip import validate
 
 
 def test_validity():

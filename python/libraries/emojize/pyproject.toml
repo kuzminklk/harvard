@@ -3,13 +3,6 @@ name = "emojize"
 version = "0.1.0"
 description = "Turn emoji codes (like “:thumbs_up:”) to emoji"
 readme = "README.md"
-authors = [{ name = "kuzminkdk", email = "kuzminkdk@gmail.com" }]
+authors = [{ name = "kuzminklk", email = "kuzminkdk@gmail.com" }]
 requires-python = ">=3.11"
 dependencies = ["emoji>=2.16.0"]
-
-[project.scripts]
-emojize = "emojize:main"
-
-[build-system]
-requires = ["uv_build>=0.12.17,<0.13.0"]
-build-backend = "uv_build"

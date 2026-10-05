@@ -6,13 +6,13 @@ From the problem set
 
 ### Description
 
-Parse YouTube link from embed HTML and transform
+Parses YouTube link from embed HTML and transform
 
 ## Usage
 
 ### Run
 
-`uv sync` → `uv run watch`
+`uv sync` → `uv run watch.py`
 
 ### Test
 

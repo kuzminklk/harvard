@@ -6,7 +6,7 @@ From the lecture
 
 ### Description
 
-Turn two images into animated one
+Turns two images into animated one
 
 ## Usage
 

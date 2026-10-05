@@ -2,7 +2,7 @@
 ——— Source ———
 From the problem set
 ——— Behavior ———
-Print question and asks the user for the answer, then check it and print a response
+Prints question and asks the user for the answer, then check it and print a response
 """
 
 

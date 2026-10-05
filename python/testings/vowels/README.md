@@ -12,7 +12,7 @@ Omits vowels from the text
 
 ### Run
 
-`uv sync` → `uv run vowels`
+`uv sync` → `uv run vowels.py`
 
 ### Test
 

@@ -1,6 +1,6 @@
 import pytest
 
-from .watch import parse
+from watch import parse
 
 
 def test_parse():

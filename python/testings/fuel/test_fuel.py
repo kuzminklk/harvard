@@ -1,6 +1,6 @@
 import pytest
 
-from .fuel import turn_to_percentage
+from fuel import turn_to_percentage
 
 
 def test_turn_to_percentage_value_error():

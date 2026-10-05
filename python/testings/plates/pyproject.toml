@@ -3,7 +3,7 @@ name = "plates"
 version = "0.1.0"
 description = "Checks plates for validity"
 readme = "README.md"
-authors = [{ name = "kuzminkdk", email = "kuzminkdk@gmail.com" }]
+authors = [{ name = "kuzminklk", email = "kuzminkdk@gmail.com" }]
 requires-python = ">=3.11"
 dependencies = []
 

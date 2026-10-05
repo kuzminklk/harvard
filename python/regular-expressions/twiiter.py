@@ -1,8 +1,8 @@
 """
 ——— Source ———
-From the lecure
+From the lecture
 ——— Description ———
-Grab username
+Grabs username
 """
 
 import re

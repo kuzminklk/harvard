@@ -6,7 +6,7 @@ From the problem set
 
 ### Description
 
-Print a table in ASCII-art from .csv file
+Prints a table in ASCII-art from .csv file
 
 ## Usage
 

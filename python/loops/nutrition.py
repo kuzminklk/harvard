@@ -2,7 +2,7 @@
 ——— Source ———
 From the problem set
 ——— Description ———
-Show calories per fruit
+Shows calories per fruit
 """
 
 calories_per_fruit = {

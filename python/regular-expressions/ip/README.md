@@ -6,13 +6,13 @@ From the problem set
 
 ### Description
 
-Validate IPv4 address
+Validates IPv4 address
 
 ## Usage
 
 ### Run
 
-`uv sync` → `uv run ip`
+`uv sync` → `uv run ip.py`
 
 ### Test
 

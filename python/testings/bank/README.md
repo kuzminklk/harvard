@@ -16,7 +16,7 @@ Counts a reward depends on greeting
 
 ### Run
 
-`uv sync` → `uv run bank`
+`uv sync` → `uv run bank.py`
 
 ### Test
 

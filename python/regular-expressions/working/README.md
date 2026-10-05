@@ -6,13 +6,13 @@ From the problem set
 
 ### Description
 
-Parse 12-hour clock time to 24-hour clock
+Converts 12-hour clock time to 24-hour clock
 
 ## Usage
 
 ### Run
 
-`uv sync` → `uv run working`
+`uv sync` → `uv run working.py`
 
 ### Test
 

@@ -6,7 +6,7 @@ From the lecture
 
 ### Description
 
-Paste a t-shirt image on top of the photo
+Pastes a t-shirt image on top of the photo
 
 ## Usage
 

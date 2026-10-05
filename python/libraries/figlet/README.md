@@ -6,10 +6,10 @@ From the problem set
 
 ### Description
 
-Turn text into ASCII-art
+Turns text into ASCII-art
 
 ## Usage
 
 ### Run
 
-`uv sync` → `uv run figlets [-f or --font] [font]`
+`uv sync` → `uv run figlets.py [-f or --font] [font]`

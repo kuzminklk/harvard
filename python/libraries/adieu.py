@@ -2,7 +2,7 @@
 ——— Source ———
 From the problem set
 ——— Description ———
-Say adieu (goodbye in French) for given names
+Says adieu (goodbye in French) for given names
 """
 
 

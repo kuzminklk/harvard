@@ -3,7 +3,7 @@ name = "shirt"
 version = "0.1.0"
 description = "Paste a t-shirt image on top of the photo"
 readme = "README.md"
-authors = [{ name = "kuzminkdk", email = "kuzminkdk@gmail.com" }]
+authors = [{ name = "kuzminklk", email = "kuzminkdk@gmail.com" }]
 requires-python = ">=3.11"
 dependencies = ["pillow>=12.3.0"]
 

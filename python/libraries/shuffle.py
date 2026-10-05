@@ -2,7 +2,7 @@
 ——— Source ———
 From the lecture
 ——— Description ———
-Shuffle cards
+Shuffles cards
 """
 
 import random

@@ -1,6 +1,6 @@
 import pytest
 
-from .plates import is_valid, check_length, check_start, check_numbers, check_marks
+from plates import is_valid, check_length, check_start, check_numbers, check_marks
 
 
 def test_complex_validity():

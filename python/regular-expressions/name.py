@@ -1,8 +1,8 @@
 """
 ——— Source ———
-From the lecure
+From the lecture
 ——— Description ———
-Format name
+Formats name
 """
 
 import re

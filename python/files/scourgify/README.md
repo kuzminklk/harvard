@@ -6,7 +6,7 @@ From the problem set
 
 ### Description
 
-Reformat .csv file
+Reformats .csv file
 
 ## Usage
 

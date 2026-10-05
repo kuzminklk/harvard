@@ -12,7 +12,7 @@ Checks plates for validity
 
 ### Run
 
-`uv sync` → `uv run plates`
+`uv sync` → `uv run plates.py`
 
 ### Test
 

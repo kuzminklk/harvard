@@ -11,6 +11,12 @@ def main():
 
 
 def parse(html):
+	"""
+	Parse HTML “<iframe>” for YouTube link
+
+	Returns:
+		Short link like “https://youtu.be/f3j9yjm3”
+	"""
 	match = re.search(r"^<iframe.*src=\"(?:https?://)?(?:www\.)?youtube.com/embed/(?P<url>.*?)\".*></iframe>$", html)
 	if not match:
 		return

@@ -2,7 +2,7 @@
 ——— Source ———
 From the shorts
 ——— Description ———
-Validate hexadecimal color
+Validates hexadecimal color
 """
 
 import re
