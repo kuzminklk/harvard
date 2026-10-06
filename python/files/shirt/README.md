@@ -12,4 +12,4 @@ Pastes a t-shirt image on top of the photo
 
 ### Run
 
-`uv sync` → `uv run costumes [value]`
+`uv sync` → `uv run shirt.py photo.jpg output_photo.jpg`

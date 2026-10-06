@@ -12,4 +12,4 @@ Turns two images into animated one
 
 ### Run
 
-`uv sync` → `uv run costumes [value]`
+`uv sync` → `uv run costumes frame-1.gif frame-2.gif`

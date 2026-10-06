@@ -12,4 +12,4 @@ Reformats .csv file
 
 ### Run
 
-`uv sync` → `uv run costumes [value]`
+`uv sync` → `uv run scourgify.py input_file.csv output_file.csv`

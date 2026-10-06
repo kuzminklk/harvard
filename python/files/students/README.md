@@ -12,4 +12,4 @@ Example of reading and writing .csv file
 
 ### Run
 
-`uv sync` → `uv run costumes [value]`
+`uv sync` → `python3 run write.py`, `python3 run read.py`

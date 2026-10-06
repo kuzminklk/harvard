@@ -12,4 +12,4 @@ Prints a table in ASCII-art from .csv file
 
 ### Run
 
-`uv sync` → `uv run costumes [value]`
+`uv sync` → `uv run pizza file.csv`
