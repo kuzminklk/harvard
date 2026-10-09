@@ -8,7 +8,4 @@ def test_convert():
 	birth_date = date.fromisoformat("1999-01-01")
 	difference = today - birth_date
 
-	assert (
-		convert(difference)
-		== "Fourteen Million, Six Hundred Thousand, One Hundred And Sixty"
-	)
+	assert convert(difference) == "Fourteen Million, Six Hundred Thousand, One Hundred And Sixty"

@@ -1,9 +1,8 @@
-
 names = ["Alex", "Don", "Sam"]
 
 name = input("Name: ")
 
 if name in names:
-    print("Found")
+	print("Found")
 else:
-    print("Not fount")
+	print("Not fount")

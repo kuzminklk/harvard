@@ -1,16 +1,17 @@
-
 def main():
-    while (1):
-        try:
-            n = int(input("How much? "))
-            break
-        except ValueError:
-            print("Enter an number")
+	while 1:
+		try:
+			n = int(input("How much? "))
+			break
+		except ValueError:
+			print("Enter an number")
 
-    meow(n)
+	meow(n)
+
 
 def meow(n):
-    for _ in range(n):
-        print("Meow")
+	for _ in range(n):
+		print("Meow")
+
 
 main()

@@ -11,7 +11,7 @@ def main():
 	time = time.strip().lower()
 	hours = convert(time)
 	meal = select_a_meal(hours)
-	if meal  is not None:
+	if meal is not None:
 		print(f"It's {meal} time!")
 
 
