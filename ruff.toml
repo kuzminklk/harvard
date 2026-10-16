@@ -1,5 +1,4 @@
-line-length = 120
+line - length = 120
 
-[format]
-quote-style = "double"
-indent-style = "tab"
+                    [format] quote -
+                style = "double" indent - style = "tab"

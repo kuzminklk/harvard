@@ -1,0 +1,12 @@
+[sqlfluff]
+# Always set the dialect explicitly (change to match your database)
+dialect = postgres
+templater = raw
+
+# Match Prettier
+max_line_length = 120
+
+[sqlfluff:indentation]
+# Match Prettier
+indent_unit = tab
+tab_space_size = 2

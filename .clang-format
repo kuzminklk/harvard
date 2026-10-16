@@ -1,0 +1,15 @@
+BasedOnStyle: LLVM
+Language: C
+
+# Indentation (matches .editorconfig)
+UseTab: ForIndentation
+IndentWidth: 2
+TabWidth: 2
+ContinuationIndentWidth: 2
+
+# Line width (matches .prettierrc)
+ColumnLimit: 120
+
+# File hygiene (matches .editorconfig)
+LineEnding: LF
+InsertNewlineAtEOF: true
